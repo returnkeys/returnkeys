@@ -4,14 +4,11 @@ Currently at ISAC-CNR working on the Sphere Project (EU), developing data pipeli
 🔍 Areas of Interest
 
 Financial data analysis: fraud detection, risk modeling, anomaly detection
-
 Predictive analytics & time series forecasting
-
 Machine learning & statistical modeling
-
 Big data pipelines & cloud-based analytics (Azure Machine Learning)
 
-⚡ Tech Stack## ⚡ Tech Stack  
+⚡ Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
@@ -21,3 +18,21 @@ Big data pipelines & cloud-based analytics (Azure Machine Learning)
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?logo=microsoftazure&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+
+📚 Currently Improving
+
+Advanced statistical learning methods
+Financial data applications (fraud & anomaly detection)
+Optimizing large-scale data workflows
+Cloud-based ML deployment & real-time inference
+
+🤝 Collaboration
+
+I’m open to collaborating on:
+Financial data analytics & fraud detection
+Predictive modeling & risk analysis
+Big data pipelines & cloud-based ML applications
+
+## 📫 Contact  
+- [LinkedIn](https://www.linkedin.com/in/esmaeil-pourjavad-091b861b3)  
+
